@@ -40,7 +40,7 @@ int travel(int x, int y, int end_x, int end_y, int dir){
           //printf("go forword\n");
           travel(x+dir_x[dir], y+dir_y[dir], end_x, end_y, dir);
         }
-        else{maze[x+dir_x[dir]][y+dir_y[dir]] != 1;
+        else{
           dir = dir - 1;
           //printf("turn left\n");
           if(dir < 0){
