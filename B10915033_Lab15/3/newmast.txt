@@ -1,6 +1,0 @@
-Account	  Balance
-1	  25		No purchase.
-2	  100
-3	  50		No purchase.
-5	  -90		No purchase.
-9	  -50		New member.
